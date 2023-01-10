@@ -89,6 +89,6 @@ const intern = [
 function init() {
     inquirer.prompt(questions)
     .then(inquirerResopnses) => {
-        console.log('Success';)
+        console.log('Success');
     }
 }
