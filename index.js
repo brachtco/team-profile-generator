@@ -43,22 +43,22 @@ const enginner = [
     {
         type: "input",
         name: "name",
-        message: "Please enter the name of the Eningeer.",
+        message: "Please enter the name of the Engineer.",
     },
     {
         type: "input",
         name: "id",
-        message: "Please enter the ID of the Eningeer.",
+        message: "Please enter the ID of the Engineer.",
     },
     {
         type: "input",
         name: "email",
-        message: "Please enter the email address of the Eningeer.",
+        message: "Please enter the email address of the Engineer.",
     },
     {
         type: "input",
         name: "officeNumber",
-        message: "Please enter the GitHub username of the Eningeer.",
+        message: "Please enter the GitHub username of the Engineer.",
     },
 ];
 
