@@ -28,7 +28,7 @@ MIT
 
 Screencast presentation of Team Profile Generator: https://drive.google.com/file/d/14eZZ_wOWkWPD1AZZrB4WkJkwaL5ojsYp/view
 
-GitHub Repo: 
+GitHub Repo: https://github.com/brachtco/team-profile-generator
 
 
 
