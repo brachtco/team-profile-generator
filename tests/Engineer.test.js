@@ -6,7 +6,7 @@ describe('Engineer', () => {
 
         describe('addGithub', () => {
             it('should add the github username to the Engineer object' () => {
-                const engineer = new Engineer('Jack', 0799, 'jack@theteam.com');
+                const engineer = new Engineer('Jack', 0799, 'jack@theteam.com', 'jacko');
 
                 expect(engineer).toEqual(jacko);
             })

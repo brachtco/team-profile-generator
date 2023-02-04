@@ -3,22 +3,17 @@ Team Profile Generator
 
 ## Description
 
-This project generates a Readme file from user input on the command line. When the user calls for 
-node and the javascript file, then they will be prompted with questions. Their input will be the content
-created in the Readme file including: the title, a description, installation instructions, usage information,
-contribution guidelines and test instructions. It also includes the license for the application with a badge icon,
-the GitHub username and email.
+The Team Profile Generator creates an HTML page from user input on the command line. When the user calls for 
+node and the index.js file, then they will see a menu with the roles Manager, Engineer and Intern. When the user clicks on Manger they will be prompted with questions and will then input answers. They will do the same with Engineer and Intern. The project also contains testing files to make sure that code is working.
 
 ## Installation
 
-Node.js needs to be installed as well as the npm package, which gives us the inquirer and fs package, and
-these are required for the application to work.
+Node.js needs to be installed as well as the npm package, which gives us the inquirer and jest package. Inquirer is need to show our menu and questions. Jest is needed to run the tests.
 
 ## Usage
 
-The screen shots below shows the prompt of questions with answers. It also shows a successfully generated Readme. 
+The screen shots below shows the 
 
-![Readme_Usage_Screenshot](https://user-images.githubusercontent.com/17559972/210869543-b344f595-2379-47a1-883c-86b6f9394b0d.png)
 
 ## License
 
@@ -26,9 +21,9 @@ MIT
 
 ## Links
 
-Screencast presentation of Readme Generator: https://watch.screencastify.com/v/88aouSyOlNrhqCZyPiw5
+Screencast presentation of Team Profile Generator
 
-GitHub Repo: https://github.com/brachtco/readme-generator
+GitHub Repo: 
 
 
 
