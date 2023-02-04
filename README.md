@@ -8,7 +8,7 @@ node and the index.js file, then they will see a menu with the roles Manager, En
 
 ## Installation
 
-Node.js needs to be installed as well as the npm package, which gives us the inquirer and jest package. Inquirer is need to show our menu and questions. Jest is needed to run the tests.
+Node.js needs to be installed as well as the npm package, which gives us the inquirer and jest package. Inquirer is needed to show our menu and questions. Jest is needed to run the tests.
 
 ## Usage
 
@@ -26,7 +26,7 @@ MIT
 
 ## Links
 
-Screencast presentation of Team Profile Generator
+Screencast presentation of Team Profile Generator: https://drive.google.com/file/d/14eZZ_wOWkWPD1AZZrB4WkJkwaL5ojsYp/view
 
 GitHub Repo: 
 
