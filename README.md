@@ -12,10 +12,9 @@ Node.js needs to be installed as well as the npm package, which gives us the inq
 
 ## Usage
 
-[Screenshot 2023-02-04 at 2 19 07 PM](https://user-images.githubusercontent.com/17559972/216790107-097fda8e-8038-4f5f-a9a3-e6247c896797.png)
- <img width="1215" alt="Screenshot 2023-02-04 at 2 16 12 PM" src="https://user-images.githubusercontent.com/17559972/216790110-475d4373-e3d9-4117-ab2c-71904da85a24.png">
- 
+![Screenshot 2023-02-04 at 2 19 07 PM](https://user-images.githubusercontent.com/17559972/216790177-1b67d19c-0109-4695-ba79-467d736b7245.png)
 
+<img width="1215" alt="Screenshot 2023-02-04 at 2 16 12 PM" src="https://user-images.githubusercontent.com/17559972/216790184-b908c0f9-f9cc-4cfd-9331-546db46571c0.png">
 
 ## License
 
